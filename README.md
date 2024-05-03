@@ -1,1 +1,1 @@
-# SpamSMSDetection, Classifying SMS messages as apam or legitimate
+# SpamSMSDetection, Classifying SMS messages as spam or legitimate
