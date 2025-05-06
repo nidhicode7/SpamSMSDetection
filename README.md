@@ -1,6 +1,3 @@
-# SpamSMSDetection
-
-
 
 # 📩 Spam SMS Detection
 
